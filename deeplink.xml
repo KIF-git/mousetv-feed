@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:roku="https://developer.roku.com/rss/roku">
+  <channel>
+    <title>MouseTV Deep Linking Feed</title>
+    <description>MouseTV HLS Video Library</description>
+    <link>https://example.com</link>
+
+    <item>
+      <title>Ep 1 - Into the Stars</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>blazing-ep1</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Ep 1 - Into the Stars</media:title>
+      <media:thumbnail url="https://example.com/images/episodes/blazing_the_cosmos_ep1.png" />
+      <roku:video>
+        <roku:id>blazing-ep1</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <item>
+      <title>Ep 2 - Dark Matter</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>blazing-ep2</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Ep 2 - Dark Matter</media:title>
+      <media:thumbnail url="https://example.com/images/episodes/blazing_the_cosmos_ep2.png" />
+      <roku:video>
+        <roku:id>blazing-ep2</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <!-- Add more episodes here -->
+  </channel>
+</rss>
