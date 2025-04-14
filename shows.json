@@ -2,19 +2,28 @@
   "shows": [
     {
       "title": "Competitive Wages",
-      "poster": "https://yourgithubcdn.com/posters/compwages.png",
+      "poster": "https://yourusername.github.io/MouseTV/images/competitive_wages_poster.jpg",
       "episodes": [
         {
-          "title": "Episode 1",
-          "description": "A new hire disrupts the corporate ecosystem.",
-          "video": "https://yourcdn.com/videos/compwages_ep1.mp4",
-          "thumbnail": "https://yourgithubcdn.com/thumbs/compwages_ep1.png"
+          "title": "Episode 1: The Printer Revolt",
+          "description": "The printers in Building B go on strike. Chaos ensues.",
+          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
         },
         {
-          "title": "Episode 2",
-          "description": "The office printer develops sentience.",
-          "video": "https://yourcdn.com/videos/compwages_ep2.mp4",
-          "thumbnail": "https://yourgithubcdn.com/thumbs/compwages_ep2.png"
+          "title": "Episode 2: Breakroom Showdown",
+          "description": "A turf war breaks out over the last bag of chips.",
+          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Hollywood After Dark",
+      "poster": "https://yourusername.github.io/MouseTV/images/hollywood_after_dark_poster.jpg",
+      "episodes": [
+        {
+          "title": "Episode 1: The Neon Trap",
+          "description": "Late-night LA, a mystery unfolds behind a pink-lit diner.",
+          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
         }
       ]
     }
