@@ -1,0 +1,22 @@
+{
+  "shows": [
+    {
+      "title": "Competitive Wages",
+      "poster": "https://yourgithubcdn.com/posters/compwages.png",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "description": "A new hire disrupts the corporate ecosystem.",
+          "video": "https://yourcdn.com/videos/compwages_ep1.mp4",
+          "thumbnail": "https://yourgithubcdn.com/thumbs/compwages_ep1.png"
+        },
+        {
+          "title": "Episode 2",
+          "description": "The office printer develops sentience.",
+          "video": "https://yourcdn.com/videos/compwages_ep2.mp4",
+          "thumbnail": "https://yourgithubcdn.com/thumbs/compwages_ep2.png"
+        }
+      ]
+    }
+  ]
+}
