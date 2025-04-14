@@ -2,28 +2,91 @@
   "shows": [
     {
       "title": "Competitive Wages",
-      "poster": "https://yourusername.github.io/MouseTV/images/competitive_wages_poster.jpg",
+      "poster": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/shows/competitive.png",
       "episodes": [
         {
-          "title": "Episode 1: The Printer Revolt",
-          "description": "The printers in Building B go on strike. Chaos ensues.",
-          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
-        },
+          "title": "Episode 1: Pilot",
+          "description": "Coming Soon!!!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/coming_soon.png",
+          "video": ""
+        }
+      ]
+    },
         {
-          "title": "Episode 2: Breakroom Showdown",
-          "description": "A turf war breaks out over the last bag of chips.",
-          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+      "title": "Hollywood After Dark",
+      "poster": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/shows/hollywood.png",
+      "episodes": [
+        {
+          "title": "Episode 1: The Scandal",
+          "description": "A former child star is pulled back into a scandal that never really ended.",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/hollywood_after_dark_ep1.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
         }
       ]
     },
     {
-      "title": "Hollywood After Dark",
-      "poster": "https://yourusername.github.io/MouseTV/images/hollywood_after_dark_poster.jpg",
+      "title": "Blazing the Cosmos",
+      "poster": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/shows/blazing.png",
       "episodes": [
         {
-          "title": "Episode 1: The Neon Trap",
-          "description": "Late-night LA, a mystery unfolds behind a pink-lit diner.",
-          "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+          "title": "Episode 1: High In Space",
+          "description": "Bud Leaf finds himself on the Moon before blasting off into space.",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/blazing_the_cosmos_ep1.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+      ]
+    },
+        {
+      "title": "Classic Movies With Pierre",
+      "poster": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/shows/pierre.png",
+      "episodes": [
+        {
+          "title": "Episode 1: Attack of the Giant Leeches",
+          "description": "Watch: Attack of the Giant Leeches, with Pierre!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/classic_movies_with_pierre_ep1.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+        {
+          "title": "Episode 2: Beat The Devil",
+          "description": "Watch: Beat The Devil, with Pierre!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/classic_movies_with_pierre_ep2.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+        {
+          "title": "Episode 3: Teenagers From Outer Space",
+          "description": "Watch: Teenagers From Outer Space, with Pierre!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/classic_movies_with_pierre_ep3.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+        {
+          "title": "Episode 4: The Brain That Wouldn't Die",
+          "description": "Watch: The Brain That Wouldn't Die, with Pierre!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/classic_movies_with_pierre_ep4.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+        {
+          "title": "Episode 5: The Little Shop Of Horrors",
+          "description": "Watch: The Little Shop Of Horrors, with Pierre!",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/classic_movies_with_pierre_ep5.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Conspiracy Facts",
+      "poster": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/shows/conspiracy.png",
+      "episodes": [
+        {
+          "title": "Episode 1: Mr. Beast and the CIA: Is Operation Mockingbird Alive?",
+          "description": "This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107). It provides transformative commentary, criticism, and parody on public figures and historical events. The use of materials in this video is done for analysis and discussion, and no harm or defamation is intended. Commercial use of this video is protected as fair use because it does not affect the market value of the original work, and serves as commentary and parody.",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/conspiracy_facts_ep1.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        }
+        {
+          "title": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures",
+          "description": "This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107). It provides transformative commentary, criticism, and parody on public figures and historical events. The use of materials in this video is done for analysis and discussion, and no harm or defamation is intended. Commercial use of this video is protected as fair use because it does not affect the market value of the original work, and serves as commentary and parody.",
+          "thumbnail": "https://raw.github.com/KIF-git/mousetv-feed/blob/main/images/episodes/conspiracy_facts_ep2.png",
+          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
         }
       ]
     }
