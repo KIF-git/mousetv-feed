@@ -1,36 +1,132 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:roku="https://developer.roku.com/rss/roku">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:roku="https://developer.roku.com/rss/roku">
   <channel>
     <title>MouseTV Deep Linking Feed</title>
-    <description>MouseTV HLS Video Library</description>
-    <link>https://example.com</link>
+    <description>Deep link metadata for MouseTV Roku Channel</description>
+    <link>https://kif-git.github.io/mousetv-feed/</link>
 
+    <!-- Hollywood After Dark -->
     <item>
-      <title>Ep 1 - Into the Stars</title>
+      <title>Episode 1: The Scandal</title>
       <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
-      <guid>blazing-ep1</guid>
+      <guid>hollywood_ep1</guid>
       <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
-      <media:title>Ep 1 - Into the Stars</media:title>
-      <media:thumbnail url="https://example.com/images/episodes/blazing_the_cosmos_ep1.png" />
+      <media:title>Episode 1: The Scandal</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/hollywood_after_dark_ep1.png" />
       <roku:video>
-        <roku:id>blazing-ep1</roku:id>
+        <roku:id>hollywood_ep1</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <!-- Blazing the Cosmos -->
+    <item>
+      <title>Episode 1: High In Space</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>blazing_ep1</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 1: High In Space</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/blazing_the_cosmos_ep1.png" />
+      <roku:video>
+        <roku:id>blazing_ep1</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <!-- Classic Movies With Pierre -->
+    <item>
+      <title>Episode 1: Attack of the Giant Leeches</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>pierre_ep1</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 1: Attack of the Giant Leeches</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep1.png" />
+      <roku:video>
+        <roku:id>pierre_ep1</roku:id>
         <roku:type>episode</roku:type>
       </roku:video>
     </item>
 
     <item>
-      <title>Ep 2 - Dark Matter</title>
+      <title>Episode 2: Beat The Devil</title>
       <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
-      <guid>blazing-ep2</guid>
+      <guid>pierre_ep2</guid>
       <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
-      <media:title>Ep 2 - Dark Matter</media:title>
-      <media:thumbnail url="https://example.com/images/episodes/blazing_the_cosmos_ep2.png" />
+      <media:title>Episode 2: Beat The Devil</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep2.png" />
       <roku:video>
-        <roku:id>blazing-ep2</roku:id>
+        <roku:id>pierre_ep2</roku:id>
         <roku:type>episode</roku:type>
       </roku:video>
     </item>
 
-    <!-- Add more episodes here -->
+    <item>
+      <title>Episode 3: Teenagers From Outer Space</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>pierre_ep3</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 3: Teenagers From Outer Space</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep3.png" />
+      <roku:video>
+        <roku:id>pierre_ep3</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <item>
+      <title>Episode 4: The Brain That Wouldn't Die</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>pierre_ep4</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 4: The Brain That Wouldn't Die</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep4.png" />
+      <roku:video>
+        <roku:id>pierre_ep4</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <item>
+      <title>Episode 5: The Little Shop Of Horrors</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>pierre_ep5</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 5: The Little Shop Of Horrors</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep5.png" />
+      <roku:video>
+        <roku:id>pierre_ep5</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <!-- Conspiracy Facts -->
+    <item>
+      <title>Episode 1: Mr. Beast and the CIA</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>conspiracy_ep1</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 1: Mr. Beast and the CIA</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep1.png" />
+      <roku:video>
+        <roku:id>conspiracy_ep1</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
+    <item>
+      <title>Episode 2: Aliens Are Real</title>
+      <link>https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</link>
+      <guid>conspiracy_ep2</guid>
+      <media:content url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" type="application/x-mpegURL" />
+      <media:title>Episode 2: Aliens Are Real</media:title>
+      <media:thumbnail url="https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep2.png" />
+      <roku:video>
+        <roku:id>conspiracy_ep2</roku:id>
+        <roku:type>episode</roku:type>
+      </roku:video>
+    </item>
+
   </channel>
 </rss>
