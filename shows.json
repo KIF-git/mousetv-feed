@@ -50,25 +50,25 @@
           "title": "Episode 2: Beat The Devil",
           "description": "Episode 2: Watch - Beat The Devil, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep2.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Classic%20Movies%20with%20Pierre%20-%20Beat%20The%20Devil%20-%20Made%20with%20Clipchamp/index.m3u8"
         },
         {
           "title": "Episode 3: Teenagers From Outer Space",
           "description": "Episode 3: Watch - Teenagers From Outer Space, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep3.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Teenagers%20From%20Outer%20Space/index.m3u8"
         },
         {
           "title": "Episode 4: The Brain That Wouldn't Die",
           "description": "Episode 4: Watch - The Brain That Wouldn't Die, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep4.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Brain%20That%20Wouldn%27t%20Die/index.m3u8"
         },
         {
           "title": "Episode 5: The Little Shop Of Horrors",
           "description": "Episode 5: Watch - The Little Shop Of Horrors, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep5.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Little%20Shop%20of%20Horrors%20-%20Made%20with%20Clipchamp/index.m3u8"
         }
       ]
     },
