@@ -44,7 +44,7 @@
           "title": "Episode 1: Attack of the Giant Leeches",
           "description": "Episode 1: Watch - Attack of the Giant Leeches, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep1.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Attack%20of%20the%20Giant%20Leeches/index.m3u8"
         },
         {
           "title": "Episode 2: Beat The Devil",
