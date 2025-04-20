@@ -32,7 +32,7 @@
           "title": "Episode 1: High In Space",
           "description": "Episode 1: High In Space - Bud Leaf finds himself on the Moon before blasting off into space.",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/blazing_the_cosmos_ep1.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Blazing%20The%20Cosmos/Blazing%20The%20Cosmos%20-%20High%20In%20Space%20ep01/index.m3u8"
         }
       ]
     },
@@ -80,13 +80,13 @@
           "title": "Episode 1: Mr. Beast and the CIA: Is Operation Mockingbird Alive?",
           "description": "Episode 1: Mr. Beast and the CIA: Is Operation Mockingbird Alive? - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep1.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Conspiracy%20Facts/MrBeast%20and%20the%20CIA%20-%20Is%20Operation%20Mockingbird%20Alive_CleanAudio/index.m3u8"
         },
         {
           "title": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures",
           "description": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep2.png",
-          "video": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Conspiracy%20Facts/Aliens%20Are%20Real%20-%20The%20Government%27s%20Secret%20Files%20and%20UFO%20Disclosures_fixed_audio/index.m3u8"
         }
       ]
     }
