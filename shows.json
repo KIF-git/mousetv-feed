@@ -32,7 +32,7 @@
           "title": "Episode 1: High In Space",
           "description": "Episode 1: High In Space - Bud Leaf finds himself on the Moon before blasting off into space.",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/blazing_the_cosmos_ep1.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Blazing%20The%20Cosmos/Blazing%20The%20Cosmos%20-%20High%20In%20Space%20ep01/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Blazing%20The%20Cosmos/Blazing%20The%20Cosmos%20-%20High%20In%20Space%20ep01/index.m3u8"
         }
       ]
     },
@@ -44,31 +44,31 @@
           "title": "Episode 1: Attack of the Giant Leeches",
           "description": "Episode 1: Watch - Attack of the Giant Leeches, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep1.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Attack%20of%20the%20Giant%20Leeches/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Classic%20Movies%20With%20Pierre/Attack%20of%20the%20Giant%20Leeches/index.m3u8"
         },
         {
           "title": "Episode 2: Beat The Devil",
           "description": "Episode 2: Watch - Beat The Devil, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep2.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Classic%20Movies%20with%20Pierre%20-%20Beat%20The%20Devil%20-%20Made%20with%20Clipchamp/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Classic%20Movies%20With%20Pierre/Classic%20Movies%20with%20Pierre%20-%20Beat%20The%20Devil%20-%20Made%20with%20Clipchamp/index.m3u8"
         },
         {
           "title": "Episode 3: Teenagers From Outer Space",
           "description": "Episode 3: Watch - Teenagers From Outer Space, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep3.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/Teenagers%20From%20Outer%20Space/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Classic%20Movies%20With%20Pierre/Teenagers%20From%20Outer%20Space/index.m3u8"
         },
         {
           "title": "Episode 4: The Brain That Wouldn't Die",
           "description": "Episode 4: Watch - The Brain That Wouldn't Die, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep4.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Brain%20That%20Wouldn%27t%20Die/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Brain%20That%20Wouldn%27t%20Die/index.m3u8"
         },
         {
           "title": "Episode 5: The Little Shop Of Horrors",
           "description": "Episode 5: Watch - The Little Shop Of Horrors, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep5.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Little%20Shop%20of%20Horrors%20-%20Made%20with%20Clipchamp/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Classic%20Movies%20With%20Pierre/The%20Little%20Shop%20of%20Horrors%20-%20Made%20with%20Clipchamp/index.m3u8"
         }
       ]
     },
@@ -80,13 +80,13 @@
           "title": "Episode 1: Mr. Beast and the CIA: Is Operation Mockingbird Alive?",
           "description": "Episode 1: Mr. Beast and the CIA: Is Operation Mockingbird Alive? - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep1.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Conspiracy%20Facts/MrBeast%20and%20the%20CIA%20-%20Is%20Operation%20Mockingbird%20Alive_CleanAudio/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Conspiracy%20Facts/MrBeast%20and%20the%20CIA%20-%20Is%20Operation%20Mockingbird%20Alive_CleanAudio/index.m3u8"
         },
         {
           "title": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures",
           "description": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep2.png",
-          "video": "https://s3.us-west-1.wasabisys.com/mouse-tv/Conspiracy%20Facts/Aliens%20Are%20Real%20-%20The%20Government%27s%20Secret%20Files%20and%20UFO%20Disclosures_fixed_audio/index.m3u8"
+          "video": "https://cdn.mouse1.io/mouse-tv/Conspiracy%20Facts/Aliens%20Are%20Real%20-%20The%20Government%27s%20Secret%20Files%20and%20UFO%20Disclosures_fixed_audio/index.m3u8"
         }
       ]
     }
