@@ -69,6 +69,12 @@
           "description": "Episode 5: Watch - The Little Shop Of Horrors, with Pierre!",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep5.png",
           "video": "https://cdn.mouse1.io/Classic%20Movies%20With%20Pierre/The%20Little%20Shop%20of%20Horrors%20-%20Made%20with%20Clipchamp/index.m3u8"
+        },
+        {
+          "title": "Episode 6: Conspiracy",
+          "description": "Episode 6: Watch - Conspiracy, with Pierre!",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/classic_movies_with_pierre_ep6.png",
+          "video": "https://cdn.mouse1.io/Classic%20Movies%20With%20Pierre/ClassicMoviesWithPierre_Conspiracy/index.m3u8"
         }
       ]
     },
