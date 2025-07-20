@@ -99,6 +99,12 @@
           "description": "Episode 2: Aliens Are Real: The Government's Secret Files and UFO Disclosures - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep2.png",
           "video": "https://cdn.mouse1.io/Conspiracy%20Facts/Aliens%20Are%20Real/index.m3u8"
+        },
+        {
+          "title": "Episode 3: Sloppifying The Internet: The Truth Behind Misinformation And Bot Farms",
+          "description": "Episode 3: Sloppifying The Internet: The Truth Behind Misinformation And Bot Farms - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep3.png",
+          "video": "https://cdn.mouse1.io/Conspiracy%20Facts/conspiracy_facts_ep03_SloppifyingTheInternet/index.m3u8"
         }
       ]
     }
