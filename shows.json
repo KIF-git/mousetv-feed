@@ -105,6 +105,12 @@
           "description": "Episode 3: Sloppifying The Internet: The Truth Behind Misinformation And Bot Farms - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep3.png",
           "video": "https://cdn.mouse1.io/Conspiracy%20Facts/conspiracy_facts_ep03_SloppifyingTheInternet/index.m3u8"
+        },
+        {
+          "title": "Episode 4: Gig Economy: The Digital Breadline",
+          "description": "Episode 4: Gig Economy: The Digital Breadline - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep4.png",
+          "video": "https://cdn.mouse1.io/Conspiracy%20Facts/Gig_Economy_Digital_Breadline/index.m3u8"
         }
       ]
     }
