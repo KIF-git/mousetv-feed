@@ -111,6 +111,12 @@
           "description": "Episode 4: Gig Economy: The Digital Breadline - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep4.png",
           "video": "https://cdn.mouse1.io/Conspiracy%20Facts/Gig_Economy_Digital_Breadline/index.m3u8"
+        },
+        {
+          "title": "Episode 5: The Ghost Job Market: Are You Applying For Nothing?",
+          "description": "Episode 5: The Ghost Job Market: Are You Applying For Nothing? - This video is intended for educational and entertainment purposes under the Fair Use Doctrine (17 U.S.C. § 107).",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/conspiracy_facts_ep5.png",
+          "video": "https://cdn.mouse1.io/Conspiracy%20Facts/Ghost_Job_Market/index.m3u8"
         }
       ]
     }
