@@ -21,6 +21,12 @@
           "description": "Episode 1: Smoke Break -  Fame, fear, and reflection collide in this stylish, surreal noir where every flashbulb hides a deeper truth.",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/hollywood_after_dark_ep1.png",
           "video": "https://cdn.mouse1.io/Hollywood%20After%20Dark/HollywoodAfterDark_SmokeBreak_ep01/index.m3u8"
+        },
+        {
+          "title": "Episode 2: Coming Soon!",
+          "description": "Episode 2: Coming Soon!",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/coming_soon.png",
+          "video": ""
         }
       ]
     },
@@ -33,6 +39,12 @@
           "description": "Episode 1: High In Space - Bud Leaf finds himself on the Moon before blasting off into space.",
           "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/blazing_the_cosmos_ep1.png",
           "video": "https://cdn.mouse1.io/Blazing%20The%20Cosmos/Blazing%20The%20Cosmos%20-%20High%20In%20Space%20ep01/index.m3u8"
+        },
+        {
+          "title": "Episode 2: Coming Soon!",
+          "description": "Episode 2: Coming Soon!",
+          "thumbnail": "https://raw.githubusercontent.com/KIF-git/mousetv-feed/main/images/episodes/coming_soon.png",
+          "video": ""
         }
       ]
     },
